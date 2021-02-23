@@ -8,8 +8,9 @@ Topic    | Link
 ------   | ------
 Markdown | [Markdown](https://ahamdmaali.github.io/Reading-notes/Markdown)
 ------   |  ------
-Git      |  https://ahamdmaali.github.io/Reading-notes/git
+Git      |  [Git](https://ahamdmaali.github.io/Reading-notes/git)
 ------   | ------
-GitHub   | https://ahamdmaali.github.io/Reading-notes/github
-------   | ------
-A-C-P    | https://ahamdmaali.github.io/Reading-notes/A-C-P
+GitHub   | [GitHub](https://ahamdmaali.github.io/Reading-notes/github)
+A-C-P    | [A-C-P](https://ahamdmaali.github.io/Reading-notes/A-C-P)
+
+
