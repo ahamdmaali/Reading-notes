@@ -4,11 +4,12 @@ Civil engineer
 ### Email: ahmad.maali95@outlook.com
 ### Phone: 962779745225
 
-Topic    | Link
-------   | ------
-Markdown | [Markdown](https://ahamdmaali.github.io/Reading-notes/Markdown)
-Git      |  [Git](https://ahamdmaali.github.io/Reading-notes/git) 
-GitHub   | [GitHub](https://ahamdmaali.github.io/Reading-notes/github)
-A-C-P    | [A-C-P](https://ahamdmaali.github.io/Reading-notes/A-C-P)
+Topic     | Link
+------    | ------
+Markdown  | [Markdown](https://ahamdmaali.github.io/Reading-notes/Markdown)
+Git       |  [Git](https://ahamdmaali.github.io/Reading-notes/git) 
+GitHub    | [GitHub](https://ahamdmaali.github.io/Reading-notes/github)
+A-C-P     | [A-C-P](https://ahamdmaali.github.io/Reading-notes/A-C-P)
+Growthmind|[Growthmind](https://ahamdmaali.github.io/Reading-notes/Growthmind)
 
 
