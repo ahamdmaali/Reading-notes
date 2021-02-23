@@ -4,13 +4,7 @@ is Hypertext Markup Language is the standard markup language for documents desig
 ## Css is:
  Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 
-### Html code it have 3 elements 
-
-1. <head>
-2. <body>
-3. <title>
-
-HTML uses tags (characters that sit inside angled 
+#### HTML uses tags (characters that sit inside angled 
 brackets) to give the information they surround special 
 meaning.
 The new HTML5 elements indicate the purpose of 
