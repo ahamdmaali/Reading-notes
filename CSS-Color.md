@@ -50,3 +50,9 @@ is white you can use the
 background-color property on
 the <body> element.
 
+## Color picker
+https://www.w3schools.com/colors/colors_picker.asp
+
+
+
+
