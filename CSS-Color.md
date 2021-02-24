@@ -23,3 +23,30 @@ DarkCyan
 We look at these three different
 ways of specifying colors on the
 next double-page spread.
+
+## Background color
+
+CSS treats each HTML element
+as if it appears in a box, and the
+background-color property
+sets the color of the background
+for that box.
+You can specify your choice of
+background color in the same
+three ways you can specify
+foreground colors: RGB values,
+hex codes, and color names
+(covered on the next page).
+If you do not specify a
+background color, then the
+background is transparent.
+By default, most browser
+windows have a white
+background, but browser users
+can set a background color for
+their windows, so if you want
+to be sure that the background
+is white you can use the
+background-color property on
+the <body> element.
+
