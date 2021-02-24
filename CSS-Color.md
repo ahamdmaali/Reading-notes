@@ -51,7 +51,7 @@ background-color property on
 the <body> element.
 
 ## Color picker
-https://www.w3schools.com/colors/colors_picker.asp
+[W3schools picker](https://www.w3schools.com/colors/colors_picker.asp)
 
 
 
