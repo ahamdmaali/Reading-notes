@@ -21,7 +21,7 @@ CSS-Color |[CSS-Color](https://ahamdmaali.github.io/Reading-notes/CSS-Color)
 
 Topic     | Link
 ------    | ------
-Read: 01 - Introductory HTML and JavaScript  | [Markdown](https://ahamdmaali.github.io/Reading-notes/Markdown)
+Read: 01 - Introductory HTML and JavaScript  | [Class-01](https://ahamdmaali.github.io/Reading-notes/class-01)
       |  
    | 
      | 
