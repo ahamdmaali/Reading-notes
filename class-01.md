@@ -55,5 +55,13 @@ contains a list of questions with
 areas for you to fill in details or
 checkboxes to tick. Again, the
 structure is very similar online.
-![Sructur of the web page!](C:\Users\1334928\Desktop/Capture)
 
+# Extra Markup
+## The Evolution of HTML
+### Since the web was first created, there have been several different versions of HTML.
+1. HTML 4
+2. XHTML 1.0
+3. HTML5
+
+# HTML5 Layout
+![HTML5 Layout!](https://4.bp.blogspot.com/-3vqJRIdB2bQ/WofTZOh8dGI/AAAAAAAABT8/mRHTwO6l-t0262yBn-N1yJREWPLYnFvxQCLcBGAs/s1600/youtube.jpg)
