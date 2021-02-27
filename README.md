@@ -22,9 +22,16 @@ CSS-Color |[CSS-Color](https://ahamdmaali.github.io/Reading-notes/CSS-Color)
 Topic     | Link
 ------    | ------
 Read: 01 - Introductory HTML and JavaScript  | [Markdown](https://ahamdmaali.github.io/Reading-notes/Markdown)
-Git       |  [Git](https://ahamdmaali.github.io/Reading-notes/git) 
-GitHub    | [GitHub](https://ahamdmaali.github.io/Reading-notes/github)
-A-C-P     | [A-C-P](https://ahamdmaali.github.io/Reading-notes/A-C-P)
-Growthmind|[Growthmind](https://ahamdmaali.github.io/Reading-notes/Growthmind)
-HTML CH17 |[HTML CH17](https://ahamdmaali.github.io/Reading-notes/html-css-ch17)
-CSS-Color |[CSS-Color](https://ahamdmaali.github.io/Reading-notes/CSS-Color)
+      |  
+   | 
+     | 
+|
+|
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
