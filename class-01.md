@@ -55,5 +55,5 @@ contains a list of questions with
 areas for you to fill in details or
 checkboxes to tick. Again, the
 structure is very similar online.
-![Sructur of the web page!](../c/users/1334928/Desktop/Capture.PNG)
+![Sructur of the web page!](C:\Users\1334928\Desktop/Capture)
 
