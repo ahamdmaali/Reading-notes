@@ -19,19 +19,19 @@ CSS-Color |[CSS-Color](https://ahamdmaali.github.io/Reading-notes/CSS-Color)
   
 # Code 201 Reading Notes
 
-Topic     | Link
-------    | ------
+Topic                                        | Link
+------                                       | ------
 Read: 01 - Introductory HTML and JavaScript  | [Class-01](https://ahamdmaali.github.io/Reading-notes/class-01)
-      |  
-   | 
-     | 
-|
-|
- |
- |
- |
- |
- |
- |
- |
- |
+                                             |  
+                                             | 
+                                             | 
+                                             |
+                                             |
+                                             |
+                                             |
+                                             |
+                                             |
+                                             |
+                                             |
+                                             |
+                                             |
