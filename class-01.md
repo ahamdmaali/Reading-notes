@@ -65,3 +65,49 @@ structure is very similar online.
 
 # HTML5 Layout
 ![HTML5 Layout!](https://4.bp.blogspot.com/-3vqJRIdB2bQ/WofTZOh8dGI/AAAAAAAABT8/mRHTwO6l-t0262yBn-N1yJREWPLYnFvxQCLcBGAs/s1600/youtube.jpg)
+
+# Process & Design
+## Who is the Site For?
+Every website should be designed for the
+target audience—not just for yourself or the
+site owner. It is therefore very important to
+understand who your target audience is
+Every website should be designed for the
+target audience—not just for yourself or the
+site owner. It is therefore very important to
+understand who your target audience is
+### Target Audience: individuals
+● What is the age range of your target audience?
+● Will your site appeal to more women or men? What is the mix?
+● Which country do your visitors live in?
+● Do they live in urban or rural areas?
+● What is the average income of visitors?
+● What level of education do they have?
+● What is their marital or family status?
+● What is their occupation?
+● How many hours do they work per week?
+● How often do they use the web?
+● What kind of device do they use to access the web?
+Target Audience: Companies
+● What is the size of the company or relevant department?
+● What is the position of people in the company who visit your site?
+● Will visitors be using the site for themselves or for someone else?
+● How large is the budget they control?
+### Target Audience: Companies
+● What is the size of the company or relevant department?
+● What is the position of people in the company who visit your site?
+● Will visitors be using the site for themselves or for someone else?
+● How large is the budget they control?
+## Why People Visit YOUR Website
+Now that you know who your visitors are, you
+need to consider why they are coming. While
+some people will simply chance across your
+website, most will visit for a specific reason.
+## What Your Visitors areTrying to Achieve
+It is unlikely that you will be able to list every
+reason why someone visits your site but you
+are looking for key tasks and motivations. This
+information can help guide your site designs.
+
+## Book link: [Duckett book](https://drive.google.com/file/d/1vTttAaz2kLHFaltbQjEN0tb_xpUA6d_y/view)
+
