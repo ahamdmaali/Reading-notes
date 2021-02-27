@@ -1,4 +1,4 @@
-# Ahamd Al-Maali   ### Civil engineer
+# Ahamd Al-Maali ( Civil engineer)
 ## contact info :
 ### Email: ahmad.maali95@outlook.com
 ### Phone: 962779745225
