@@ -1,16 +1,8 @@
 ![Duckett book!](https://1.bp.blogspot.com/-OPTUUf3Po80/XrpNus59zCI/AAAAAAAAGkA/bk7nHCe5eZQAC11qlAyi8VZK2f9t9K5tgCLcBGAsYHQ/s640/css.jpg)
 
 # Introduction
-#### Those who want to learn how to design and build websites
-from scratch
-#### Anyone who has a website (that may be built using a
-content management system, blogging software, or an
-e-commerce platform) and wants more control over the
-appearance of their pages
-The only things you need in order to use this book are a
-computer with a web browser and a text editor (such as
-Notepad, which comes with Windows, or TextEdit, which
-comes with Macs).
+#### Those who want to learn how to design and build websites from scratch
+#### Anyone who has a website (that may be built using a content management system, blogging software, or an e-commerce platform) and wants more control over the appearance of their pages The only things you need in order to use this book are a computer with a web browser and a text editor (such as Notepad, which comes with Windows, or TextEdit, which comes with Macs).
 
 # Structure
 Many web pages act like electronic versions of these
@@ -88,11 +80,7 @@ understand who your target audience is
 #### How many hours do they work per week?
 #### How often do they use the web?
 #### What kind of device do they use to access the web?
-Target Audience: Companies
-#### What is the size of the company or relevant department?
-#### What is the position of people in the company who visit your site?
-#### Will visitors be using the site for themselves or for someone else?
-#### How large is the budget they control?
+
 ### Target Audience: Companies
 #### What is the size of the company or relevant department?
 #### What is the position of people in the company who visit your site?
