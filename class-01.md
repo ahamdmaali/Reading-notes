@@ -3,6 +3,43 @@
 # Introduction
 #### Those who want to learn how to design and build websites from scratch
 #### Anyone who has a website (that may be built using a content management system, blogging software, or an e-commerce platform) and wants more control over the appearance of their pages The only things you need in order to use this book are a computer with a web browser and a text editor (such as Notepad, which comes with Windows, or TextEdit, which comes with Macs).
+## Is it hard to Learn?
+Many books that teach HTML and CSS
+resemble dull manuals. To make it easier for
+you to learn, we threw away the traditional
+template used by publishers and redesigned
+this book from scratch.
+## The Structure of This Book
+### In order to teach you about creating web pages, this book is divided into three sections:
+1. HTML
+2. CSS
+3. Practical
+## How People Access the Web?
+### Before we look at the code used to build websites it is important to consider the different ways in which people access the web and clarify some terminology.
+1. Browsers: 
+People access websites using
+software called a web browser.
+Popular examples include
+Firefox, Internet Explorer, Safari,
+Chrome, and Opera.
+2. Web Servers:
+When you ask your browser for
+a web page, the request is sent
+across the Internet to a special
+computer known as a web
+server which hosts the website.
+3. Screen readers:
+Screen readers are programs
+that read out the contents of a
+computer screen to a user. They
+are commonly used by people
+with visual impairments.
+## How Websites Are Created?
+All websites use HTML and CSS, but content
+management systems, blogging software, and
+e-commerce platforms often add a few more
+technologies into the mix.
+
 
 # Structure
 Many web pages act like electronic versions of these
