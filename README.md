@@ -3,6 +3,7 @@
 ### Email: ahmad.maali95@outlook.com
 ### Phone: 962779745225
 
+# In this site you can find a summry of some programing topics.
 
 # Code 102 Reading Notes
 
