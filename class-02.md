@@ -8,20 +8,20 @@ you have written is a quotation (and who said it), the
 meaning of acronyms
 
 ## Headings
-1. <h1>This is a Main Heading</h1>
-2. <h2>This is a Level 2 Heading</h2>
-3. <h3>This is a Level 3 Heading</h3>
-4. <h4>This is a Level 4 Heading</h4>
-5. <h5>This is a Level 5 Heading</h5>
-6. <h6>This is a Level 6 Heading</h6>
+1. <h1>This is a Main Heading</h1> "<h1>This is a Main Heading</h1>"
+2. <h2>This is a Level 2 Heading</h2> "<h2>This is a Level 2 Heading</h2>"
+3. <h3>This is a Level 3 Heading</h3> "<h3>This is a Level 3 Heading</h3>"             
+4. <h4>This is a Level 4 Heading</h4> "<h4>This is a Level 4 Heading</h4>"
+5. <h5>This is a Level 5 Heading</h5> "<h5>This is a Level 5 Heading</h5>"
+6. <h6>This is a Level 6 Heading</h6> "<h6>This is a Level 6 Heading</h6>"
 ### Head numbred from 1 to 6 in order how the head is important
 #### so h1 is most important head while h6 is the least.
 # Paragraphs
 ## "<p>text</p>"
 #### A paragraph consists of one or more sentences that form a self-contained unit of discourse. The start of a paragraph is indicated by a new line.
 # Superscript and Subscrip 
-## Superscript : The  element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power.
-## Subscript : The  element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas.
+#### Superscript : The  element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power.
+#### Subscript : The  element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas.
 # White Space 
 ### In order to make code easier to read, web page authors often add extra spaces or start some elements on new lines. When the browser comes across two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single space too. This is known as white space collapsing.
 # Semantic Markup 
