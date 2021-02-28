@@ -23,9 +23,9 @@ readers to understand the messages you are trying to convey
 and to navigate around the document. So, in order to learn how
 to write web pages, it is very important to understand how to
 structure documents. In this chapter you will:
-● See how HTML describes the structure of a web page
-● Learn how tags or elements are added to your document
-● Write your first web page
+#### See how HTML describes the structure of a web page
+#### Learn how tags or elements are added to your document
+#### Write your first web page
 ## How Pages Use Structure ?
 Think about the stories you
 read in a newspaper: for each
