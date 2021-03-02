@@ -19,29 +19,29 @@
    ## Liquid Layouts:
    #### Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages.
     
-    ## CSS Frameworks:
-    #### CSS frameworks aim to make your life easier by providing the code for common tasks, such as creating layout grids, styling forms, creating printer-friendly versions of pages and so on. You can include the CSS framework code in your projects rather than writing the CSS from scratch.
+   ## CSS Frameworks:
+   #### CSS frameworks aim to make your life easier by providing the code for common tasks, such as creating layout grids, styling forms, creating printer-friendly versions of pages and so on. You can include the CSS framework code in your projects rather than writing the CSS from scratch.
 
 
-    # Functions, Methods, and Objects 
-    ### FUNCTIONS & OBJECTS BUILT-IN METHODS: 
-    ##### Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
-    ### OBJECTS 
+   # Functions, Methods, and Objects 
+   ### FUNCTIONS & OBJECTS BUILT-IN METHODS: 
+   ##### Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
+   ### OBJECTS 
    ##### Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names.
     
-    ###### To learn more about functions and objects read Duckett JS book, ch3.
+  ##### To learn more about functions and objects read Duckett JS book, ch3.
 
-    # 6 Reasons for Pair Programming
-    ### pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. 
+   # 6 Reasons for Pair Programming
+   ### pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. 
 
-    ### Why pair program? 
-    1. Greater efficiency.
+   ### Why pair program? 
+   1. Greater efficiency.
     2. Engaged collaboration
     3. Learning from fellow students
     4. Social skills.
     5. Job interview readiness
     6. Work environment readiness 
 
-    ##### To learn more about pair programming visit [pair programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+   ##### To learn more about pair programming visit [pair programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
    
