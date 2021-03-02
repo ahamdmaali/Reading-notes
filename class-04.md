@@ -29,19 +29,19 @@
    ### OBJECTS 
    ##### Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names.
     
-  ##### To learn more about functions and objects read Duckett JS book, ch3.
+  #### To learn more about functions and objects read Duckett JS book, ch3.
 
    # 6 Reasons for Pair Programming
    ### pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. 
 
    ### Why pair program? 
    1. Greater efficiency.
-    2. Engaged collaboration
-    3. Learning from fellow students
-    4. Social skills.
-    5. Job interview readiness
-    6. Work environment readiness 
+   2. Engaged collaboration
+   3. Learning from fellow students
+   4. Social skills.
+   5. Job interview readiness
+   6. Work environment readiness 
 
-   ##### To learn more about pair programming visit [pair programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+   #### To learn more about pair programming visit [pair programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
    
