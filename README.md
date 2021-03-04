@@ -20,11 +20,11 @@ CSS-Color |[CSS-Color](https://ahamdmaali.github.io/Reading-notes/CSS-Color)
   
 # Code 201 Reading Notes
 
-Topic                                        | Link
-------                                       | ------
+Topic     | Link
+------    | ------
 Class-01  | [Class-01](https://ahamdmaali.github.io/Reading-notes/class-01)
 Class02   | [Class-02](https://ahamdmaali.github.io/Reading-notes/class-02)
 Class03   | [Class-03](https://ahamdmaali.github.io/Reading-notes/class-03)   
 Class04   | [Class-04](https://ahamdmaali.github.io/Reading-notes/class-04)
-
+Class05   | [Class-05](https://ahamdmaali.github.io/Reading-notes/class-05)
                                           
