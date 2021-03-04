@@ -12,7 +12,8 @@
 
 ### How to add images to the website:
 write the following tag in the body of html file
-"<img src="image source or path" alt="image description" />"
+
+    <img src="image source or path" alt="image description" />    
 
 ### Three Rules for Creating Images:
 1. Save images in the right format
