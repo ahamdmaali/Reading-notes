@@ -27,4 +27,4 @@ Class02   | [Class-02](https://ahamdmaali.github.io/Reading-notes/class-02)
 Class03   | [Class-03](https://ahamdmaali.github.io/Reading-notes/class-03)   
 Class04   | [Class-04](https://ahamdmaali.github.io/Reading-notes/class-04)
 Class05   | [Class-05](https://ahamdmaali.github.io/Reading-notes/class-05)
-                                          
+Class06   | [Class-06](https://ahamdmaali.github.io/Reading-notes/class-06)                                  
