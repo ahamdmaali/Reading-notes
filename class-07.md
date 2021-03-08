@@ -2,7 +2,7 @@
 #### A table represents information in a grid format. 
 
 ## Table structur 
-#### Table consists of a several rowss
+#### Table consists of a several rows and columns.
 
 #### To learn more about tables, read duckett HTML book, ch6.
 
