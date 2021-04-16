@@ -5,7 +5,7 @@
 
 # In this site you can find a summry of some programing topics.
 
-# Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 Topic     | Link
 ------    | ------
@@ -18,7 +18,7 @@ HTML CH17 |[HTML CH17](https://ahamdmaali.github.io/Reading-notes/html-css-ch17)
 CSS-Color |[CSS-Color](https://ahamdmaali.github.io/Reading-notes/CSS-Color)
 
   
-# Code 201 Reading Notes
+## Code 201 -  Foundations of Software Development
 
 Topic     | Link
 ------    | ------
@@ -37,3 +37,7 @@ Class-12  |[Class-12](https://ahamdmaali.github.io/Reading-notes/class-12)
 Class-13  |[Class-13](https://ahamdmaali.github.io/Reading-notes/class-13)
 Class-14a |[Class-14a](https://ahamdmaali.github.io/Reading-notes/class-14.2)
 Class-14b |[Class-14b](https://ahamdmaali.github.io/Reading-notes/class-14.1)
+
+## Code 301 - Intermediate Software Development
+Topic     | Link
+------    | ------
