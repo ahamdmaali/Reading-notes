@@ -43,3 +43,4 @@ Class-14b |[Class-14b](https://ahamdmaali.github.io/Reading-notes/class-14.1)
 Topic     | Link
 ------    | ------
 Class-01  |[Class-01](https://ahamdmaali.github.io/Reading-notes/code-301-01)
+Class-02  |[Class-02](https://ahamdmaali.github.io/Reading-notes/code-301-02)
