@@ -22,25 +22,26 @@ CSS-Color |[CSS-Color](https://ahamdmaali.github.io/Reading-notes/CSS-Color)
 
 Topic     | Link
 ------    | ------
-Class-01  | [Class-01](https://ahamdmaali.github.io/Reading-notes/class-01)
-Class-02  | [Class-02](https://ahamdmaali.github.io/Reading-notes/class-02)
-Class-03  | [Class-03](https://ahamdmaali.github.io/Reading-notes/class-03)   
-Class-04  | [Class-04](https://ahamdmaali.github.io/Reading-notes/class-04)
-Class-05  | [Class-05](https://ahamdmaali.github.io/Reading-notes/class-05)
-Class-06  | [Class-06](https://ahamdmaali.github.io/Reading-notes/class-06)                                  
-class-07  |[Class-07](https://ahamdmaali.github.io/Reading-notes/class-07)
-Class-08  |[Class-08](https://ahamdmaali.github.io/Reading-notes/class-08)
-Class-09  |[Class-09](https://ahamdmaali.github.io/Reading-notes/class-09)
-Class-10  |[Class-10](https://ahamdmaali.github.io/Reading-notes/class-10)
-Class-11  |[Class-11](https://ahamdmaali.github.io/Reading-notes/class-11)
-Class-12  |[Class-12](https://ahamdmaali.github.io/Reading-notes/class-12)
-Class-13  |[Class-13](https://ahamdmaali.github.io/Reading-notes/class-13)
-Class-14a |[Class-14a](https://ahamdmaali.github.io/Reading-notes/class-14.2)
-Class-14b |[Class-14b](https://ahamdmaali.github.io/Reading-notes/class-14.1)
+Class-01  | [Class-01](https://ahamdmaali.github.io/Reading-notes/code-201/class-01)
+Class-02  | [Class-02](https://ahamdmaali.github.io/Reading-notes/code-201/class-02)
+Class-03  | [Class-03](https://ahamdmaali.github.io/Reading-notes/code-201/class-03)   
+Class-04  | [Class-04](https://ahamdmaali.github.io/Reading-notes/code-201/class-04)
+Class-05  | [Class-05](https://ahamdmaali.github.io/Reading-notes/code-201/class-05)
+Class-06  | [Class-06](https://ahamdmaali.github.io/Reading-notes/code-201/class-06)                                  
+class-07  |[Class-07](https://ahamdmaali.github.io/Reading-notes/code-201/class-07)
+Class-08  |[Class-08](https://ahamdmaali.github.io/Reading-notes/code-201/class-08)
+Class-09  |[Class-09](https://ahamdmaali.github.io/Reading-notes/code-201/class-09)
+Class-10  |[Class-10](https://ahamdmaali.github.io/Reading-notes/code-201/class-10)
+Class-11  |[Class-11](https://ahamdmaali.github.io/Reading-notes/code-201/class-11)
+Class-12  |[Class-12](https://ahamdmaali.github.io/Reading-notes/code-201/class-12)
+Class-13  |[Class-13](https://ahamdmaali.github.io/Reading-notes/code-201/class-13)
+Class-14a |[Class-14a](https://ahamdmaali.github.io/Reading-notes/code-201/class-14.2)
+Class-14b |[Class-14b](https://ahamdmaali.github.io/Reading-notes/code-201/class-14.1)
 
 ## Code 301 - Intermediate Software Development
 
 Topic     | Link
 ------    | ------
-Class-01  |[Class-01](https://ahamdmaali.github.io/Reading-notes/code-301-01)
-Class-02  |[Class-02](https://ahamdmaali.github.io/Reading-notes/code-301-02)
+Class-01  |[Class-01](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-01)
+Class-02  |[Class-02](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-02)
+Class-03  |[Class-03](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-03)
