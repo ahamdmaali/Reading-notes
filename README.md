@@ -46,3 +46,4 @@ Class-01  |[Class-01](https://ahamdmaali.github.io/Reading-notes/code-301/code-3
 Class-02  |[Class-02](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-02)
 Class-03  |[Class-03](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-03)
 Class-04  |[Class-04](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-04)
+Class-07  |[Class-07](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-07)
