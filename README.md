@@ -52,3 +52,5 @@ Class-09  |[Class-09](https://ahamdmaali.github.io/Reading-notes/code-301/code-3
 Class-10  |[Class-10](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-10)
 Class-12  |[Class-12](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-12)
 Class-13  |[Class-13](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-13)
+Class-14a |[Class-14a](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-14a)
+Class-14b |[Class-14b](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-14b)
