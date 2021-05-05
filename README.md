@@ -50,6 +50,7 @@ Class-07  |[Class-07](https://ahamdmaali.github.io/Reading-notes/code-301/code-3
 Class-08  |[Class-08](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-08)
 Class-09  |[Class-09](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-09)
 Class-10  |[Class-10](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-10)
+Class-11  |[Class-11](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-11)
 Class-12  |[Class-12](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-12)
 Class-13  |[Class-13](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-13)
 Class-14a |[Class-14a](https://ahamdmaali.github.io/Reading-notes/code-301/code-301-14a)
